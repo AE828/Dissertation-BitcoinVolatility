@@ -29,4 +29,4 @@ Daily realised variance was constructed from 5-minute log returns following the 
 - Quantile Regression Averaging (Koenker & Bassett, 1978): Tail-conditional sensitivity of realised variance to market uncertainty shocks
 
 # Key Findings
-See results section of [Dissertation.pdf](Dissertation.pdf)
+See results section of [Dissertation.pdf](DISSERTATION.pdf)
