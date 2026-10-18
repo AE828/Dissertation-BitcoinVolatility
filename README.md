@@ -1,0 +1,2 @@
+# Dissertation-BitcoinVolatility
+This Repository contains a copy of my 6000 word final year project of my BSc. The project is essentially systematic signal research. Drawing on high frequency bitcoin price data from Binance, and macroeconomic factor variables from Yfinance and FRED, I statistically analyse the time series data and present conclusions.
